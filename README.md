@@ -2,6 +2,9 @@
 
 A no-nonsense e-commerce backend built with TypeScript and Node.js. The application runs on a Node.js server and uses Docker for a streamlined Postgres database setup with Prisma as the ORM. This project is designed for developers who want a solid starting point to build and scale a modern e-commerce backend quickly.
 
+## Docs : 
+  - [API- Doc](https://faithful-prepared-d90.notion.site/E-commerce-backend-1cfea5b5f4d08062abb8f6af081d9fbc)
+
 ## Table of Contents
 
 - [Overview](#overview)
